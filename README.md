@@ -1,3 +1,12 @@
+**What is new in this fork**
+For Universal Fan Controller for 3 wire fans. 
+Changes made to simplify for use in a 13.7v Linear DC powersupply.
+- Directly drives the Power mosfet Fan +12
+- 3 wire Fan, ignoring fan RPM feedback
+- Simplify powersupply, uses off-the-shelf regulator module
+- No changes to code necessary!
+- Directl 
+
 
 # Fanpico: Programmable PWM (PC) Fan Controller
 
